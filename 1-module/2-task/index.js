@@ -3,7 +3,9 @@ function print(text) {
 }
 
 function isValid(name) {
+
   return !!name && !name.includes(' ') && name.length >= 4;
+
 }
 
 function sayHello() {
