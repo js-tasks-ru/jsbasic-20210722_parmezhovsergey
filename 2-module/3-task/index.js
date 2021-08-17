@@ -13,7 +13,7 @@ let calculator = {
     return this.a * this.b;
   },
 };
->>>>>>> 65572da1d670fdc7d996cdc0a3d7c22c62c51461
+
 
 
 // НЕ УДАЛЯТЬ СТРОКУ, НУЖНА ДЛЯ ПРОВЕРКИ
