@@ -1,4 +1,5 @@
 function camelize(str) {
+
   if (!str) {
     return str;
   }
@@ -18,4 +19,5 @@ function camelize(str) {
       return `${firstLetter.toUpperCase()}${rest}`;
     })
     .join('');
+
 }
